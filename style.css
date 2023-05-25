@@ -1,0 +1,20 @@
+#map {
+  height: 500px;
+  width: 100%;
+}
+
+.legend {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.legend i {
+  width: 20px;
+  height: 20px;
+  float: left;
+  margin-right: 8px;
+}
